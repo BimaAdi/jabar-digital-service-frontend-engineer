@@ -4,4 +4,4 @@ Anda diminta membuat/implementasi formulir pendaftaran online yang akan digunaka
 
 # Screenshot
 
-![screenshot]('screen_shots/screenshot\ form\ pendaftaraan.png')
+![screenshot](screen_shots/screenshot_form_pendaftaraan.png)
